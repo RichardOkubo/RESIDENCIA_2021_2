@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+}
+
+div {
+    width: 100px;
+    height: 100px;
+}
+
+div#vermelho {
+    background-color: red;
+    position: absolute;
+}
+
+div#amarelo {
+    background-color: yellow;
+    position: absolute;
+    right: 0;
+}
+
+div#roxo {
+    background-color: purple;
+    position: absolute;
+    margin: auto;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+}
+
+div#verde {
+    background-color: green;
+    position: absolute;
+    bottom: 0;
+}
+
+div#azul {
+    background-color: blue;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}

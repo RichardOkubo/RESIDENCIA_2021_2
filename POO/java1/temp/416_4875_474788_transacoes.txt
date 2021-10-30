@@ -1,0 +1,54 @@
+*************** SAQUE ***************
+CPF: 416
+Ag�ncia: 4875
+Conta: 474788
+Valor: R$10.0
+Opera��o realizada em: 17/10/2021 23:10:45
+*************** FIM DO SAQUE ***************
+
+*************** SAQUE ***************
+CPF: 416
+Ag�ncia: 4875
+Conta: 474788
+Valor: R$20.0
+Opera��o realizada em: 18/10/2021 17:59:02
+*************** FIM DO SAQUE ***************
+
+*************** DEP�SITO ***************
+CPF: 416
+Ag�ncia: 4875
+Conta: 474788
+Valor: R$30.0
+Opera��o realizada em: 18/10/2021 17:59:19
+*************** FIM DO DEP�SITO ***************
+
+*************** TRANSFER�NCIA REALIZADA ***************
+
+*********** DADOS DO REMETENTE **********
+CPF: 416
+Ag�ncia : 4875
+Conta: 474788
+********** DADOS DO DESTINAT�RIO ***********
+CPF: 869
+Ag�ncia: 1651
+Conta: 869832
+***********************************************
+Valor: R$20.0
+Opera��o realizada em: 18/10/2021 18:05:57
+*************** FIM DA TRANSFER�NCIA ***************
+
+*************** TRANSFER�NCIA REALIZADA ***************
+
+*********** DADOS DO REMETENTE **********
+CPF: 416
+Ag�ncia : 4875
+Conta: 474788
+********** DADOS DO DESTINAT�RIO ***********
+CPF: 114
+Ag�ncia: 1651
+Conta: 123455
+***********************************************
+Valor: R$1.0
+Opera��o realizada em: 18/10/2021 18:06:51
+*************** FIM DA TRANSFER�NCIA ***************
+

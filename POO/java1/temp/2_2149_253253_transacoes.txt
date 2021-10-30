@@ -1,0 +1,14 @@
+*************** TRANSFER�NCIA RECEBIDA ***************
+
+*********** DADOS DO REMETENTE **********
+CPF: 1
+Ag�ncia : 1651
+Conta: 154890
+********** DADOS DO DESTINAT�RIO ***********
+CPF: 2
+Ag�ncia: 2149
+Conta: 253253
+***********************************************
+Valor: R$10.0
+Opera��o realizada em: 17/10/2021 22:56:28
+*************** FIM DA TRANSFER�NCIA ***************

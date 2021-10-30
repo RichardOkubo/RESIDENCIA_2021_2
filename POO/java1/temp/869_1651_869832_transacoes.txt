@@ -1,0 +1,14 @@
+*************** TRANSFER�NCIA RECEBIDA ***************
+
+*********** DADOS DO REMETENTE **********
+CPF: 416
+Ag�ncia : 4875
+Conta: 474788
+********** DADOS DO DESTINAT�RIO ***********
+CPF: 869
+Ag�ncia: 1651
+Conta: 869832
+***********************************************
+Valor: R$20.0
+Opera��o realizada em: 18/10/2021 18:05:57
+*************** FIM DA TRANSFER�NCIA ***************

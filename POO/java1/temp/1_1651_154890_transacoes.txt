@@ -1,0 +1,84 @@
+*************** SAQUE ***************
+CPF: 1
+Ag�ncia: 1651
+Conta: 154890
+Valor: R$1000.0
+Opera��o realizada em: 17/10/2021 22:54:40
+*************** FIM DO SAQUE ***************
+
+*************** SAQUE ***************
+CPF: 1
+Ag�ncia: 1651
+Conta: 154890
+Valor: R$20.2
+Opera��o realizada em: 17/10/2021 22:55:46
+*************** FIM DO SAQUE ***************
+
+*************** DEP�SITO ***************
+CPF: 1
+Ag�ncia: 1651
+Conta: 154890
+Valor: R$10.0
+Opera��o realizada em: 17/10/2021 22:56:09
+*************** FIM DO DEP�SITO ***************
+
+*************** TRANSFER�NCIA REALIZADA ***************
+
+*********** DADOS DO REMETENTE **********
+CPF: 1
+Ag�ncia : 1651
+Conta: 154890
+********** DADOS DO DESTINAT�RIO ***********
+CPF: 2
+Ag�ncia: 2149
+Conta: 253253
+***********************************************
+Valor: R$10.0
+Opera��o realizada em: 17/10/2021 22:56:28
+*************** FIM DA TRANSFER�NCIA ***************
+
+*************** SAQUE ***************
+CPF: 1
+Ag�ncia: 1651
+Conta: 154890
+Valor: R$20.0
+Opera��o realizada em: 18/10/2021 05:13:12
+*************** FIM DO SAQUE ***************
+
+*************** DEP�SITO ***************
+CPF: 1
+Ag�ncia: 1651
+Conta: 154890
+Valor: R$10.0
+Opera��o realizada em: 18/10/2021 05:17:36
+*************** FIM DO DEP�SITO ***************
+
+*************** TRANSFER�NCIA REALIZADA ***************
+
+*********** DADOS DO REMETENTE **********
+CPF: 1
+Ag�ncia : 1651
+Conta: 154890
+********** DADOS DO DESTINAT�RIO ***********
+CPF: 1
+Ag�ncia: 1651
+Conta: 154890
+***********************************************
+Valor: R$20.0
+Opera��o realizada em: 18/10/2021 05:18:47
+*************** FIM DA TRANSFER�NCIA ***************
+
+*************** TRANSFER�NCIA RECEBIDA ***************
+
+*********** DADOS DO REMETENTE **********
+CPF: 1
+Ag�ncia : 1651
+Conta: 154890
+********** DADOS DO DESTINAT�RIO ***********
+CPF: 1
+Ag�ncia: 1651
+Conta: 154890
+***********************************************
+Valor: R$20.0
+Opera��o realizada em: 18/10/2021 05:18:47
+*************** FIM DA TRANSFER�NCIA ***************

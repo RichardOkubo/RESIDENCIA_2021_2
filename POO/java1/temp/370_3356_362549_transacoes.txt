@@ -1,0 +1,24 @@
+*************** SAQUE ***************
+CPF: 370
+Ag�ncia: 3356
+Conta: 362549
+Valor: R$10.0
+Opera��o realizada em: 18/10/2021 00:50:32
+*************** FIM DO SAQUE ***************
+
+*************** SAQUE ***************
+CPF: 370
+Ag�ncia: 3356
+Conta: 362549
+Valor: R$30.0
+Opera��o realizada em: 18/10/2021 00:50:35
+*************** FIM DO SAQUE ***************
+
+*************** DEP�SITO ***************
+CPF: 370
+Ag�ncia: 3356
+Conta: 362549
+Valor: R$10.0
+Opera��o realizada em: 18/10/2021 00:50:38
+*************** FIM DO DEP�SITO ***************
+

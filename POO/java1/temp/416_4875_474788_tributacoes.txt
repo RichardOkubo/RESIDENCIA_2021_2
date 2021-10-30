@@ -1,0 +1,30 @@
+*************** TOTAL DE TRIBUTA��ES ***************
+
+Total gasto com transa��es = R$0.0
+Taxa para saque = R$0.1
+Total de saques realizados = 0
+
+Taxa para deposito = R$0.1
+Total de dep�sitos realizados = 0
+
+Taxa para tranfer�ncia = R$0.2
+Total de transfer�ncias realizadas = 0
+
+Opera��o realizada em: 17/10/2021 23:10:06
+****************************************************
+
+*************** TOTAL DE TRIBUTA��ES ***************
+
+Total gasto com transa��es = R$0.1
+Taxa para saque = R$0.1
+Total de saques realizados = 1
+
+Taxa para deposito = R$0.1
+Total de dep�sitos realizados = 0
+
+Taxa para tranfer�ncia = R$0.2
+Total de transfer�ncias realizadas = 0
+
+Opera��o realizada em: 17/10/2021 23:11:36
+****************************************************
+
